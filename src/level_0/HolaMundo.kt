@@ -1,4 +1,4 @@
-package Level_0
+package level_0
 
 // Programa básico inicial, Hola Mundo
 // val = inmutable
