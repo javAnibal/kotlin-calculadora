@@ -1,6 +1,5 @@
 package level_2
 
-import java.time.Year
 
 /* Objetivo: Practicar fundamentos de Kotlin
      Calculadora de edad
@@ -31,13 +30,6 @@ fun main() {
 
 
 }
-
-
-// toDoubleOrNull() -> evita excepciones si el usuario escribe algo NO numérico
-// FallBack -> se asigna valor por defecto (0.0)
-// run -> sirve para encadenar operaciones
-// ?: -> Operador "Elvis" -> si la expresión es nula TOMA ese valor, SI es nula usa valor por defecto
-
 
 
 
